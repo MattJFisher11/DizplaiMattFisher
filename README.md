@@ -9,7 +9,7 @@ Dizplai
 
 To run the frontend 
 - First do a npm i to install packages
-- Then to run in development mode run npm run start
+- Then to run in development mode run: npm run start
 
 To run the backend
 - First run: mvn clean install
